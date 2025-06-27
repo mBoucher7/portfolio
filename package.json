@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/mBoucher7/portfolio/issues"
   },
-  "homepage": "https://github.com/mBoucher7/portfolio#readme",
+  "homepage": "https://github.com/mBoucher7/portfolio",
   "dependencies": {
     "@11ty/eleventy": "^3.1.2"
   }
