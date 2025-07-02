@@ -1,0 +1,44 @@
+/* Global Styles */
+
+:root {
+  --bg-color: #2D2424;
+  --accent-color: #DAA588;
+  --highlight-color: #FFD2B2;
+  --text-color: #F7F3E9;
+  --button-color: #8C3B2E;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+}
+
+p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+}
+
+header {
+  background-color: var(--accent-color);
+  text-align: center;
+}
+
+a {
+    color: var(--button-color);
+    text-decoration: none;
+}
+
+/* Main Page Styles */
+.row-grid {
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    max-width: 1000px;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.flex-columns {
+    flex: 1 1 0;
+    min-width: 0;
+}  
