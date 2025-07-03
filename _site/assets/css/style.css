@@ -5,7 +5,7 @@
   --accent-color: #DAA588;
   --highlight-color: #FFD2B2;
   --text-color: #F7F3E9;
-  --button-color: #8C3B2E;
+  --button-color: #ee8878;
 }
 
 body {
@@ -26,6 +26,8 @@ header {
 a {
     color: var(--button-color);
     text-decoration: none;
+    font-size: 1.4rem;
+
 }
 
 /* Main Page Styles */
