@@ -44,3 +44,11 @@ a {
     flex: 1 1 0;
     min-width: 0;
 }  
+
+.link-description {
+    font-size: 0.95rem;
+    line-height: 1;
+    margin-bottom: 1rem;
+    font-family: sans-serif; /* simpler font */
+    /* color: #e0ded9; */
+}
